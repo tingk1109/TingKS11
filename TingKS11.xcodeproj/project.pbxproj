@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE7998031EF75A2A0024C1C2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7998021EF75A2A0024C1C2 /* main.swift */; };
+		CE79980A1EF75C8E0024C1C2 /* TingkAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7998091EF75C8E0024C1C2 /* TingkAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		CE7997FF1EF75A2A0024C1C2 /* TingKS11 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TingKS11; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7998021EF75A2A0024C1C2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CE7998091EF75C8E0024C1C2 /* TingkAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TingkAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				CE7998021EF75A2A0024C1C2 /* main.swift */,
+				CE7998091EF75C8E0024C1C2 /* TingkAPI.swift */,
 			);
 			path = TingKS11;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE79980A1EF75C8E0024C1C2 /* TingkAPI.swift in Sources */,
 				CE7998031EF75A2A0024C1C2 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
